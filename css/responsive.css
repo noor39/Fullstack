@@ -1,0 +1,104 @@
+@media (max-width: 1199px)
+{
+	body{
+		width: 100%;
+		padding: 10px 50px;
+	}
+	header{
+		padding: 20px 0px;
+	}
+	.logo{
+		width: 100px;
+	}
+	.head h1{
+		font-size: 18px;
+	}
+	.overlaybttn {
+	    margin: 0px 0px;
+	}
+	section{
+		padding: 30px 30px;
+	}
+	section table tr td{
+		padding: 20px 5px;
+		width: 33.33%;
+	}
+	section table tr th {
+	    padding: 10px 5px;
+	    width: 33.33%;
+	}
+	section table tr td:nth-child(4), section table tr th:nth-child(4){
+		width: 100% !important;
+	}
+	section table tr th:nth-child(5){
+		width: 100%;
+	}
+	section table tr {
+	    display: flex;
+	    flex-wrap: wrap;
+	    justify-content: center;
+	    border-bottom: 1px groove white;
+	    padding: 25px;
+	}
+	.overlaybttn a i, .overlaybttn a span{
+		font-size: 14px;
+	}
+
+
+
+}
+@media (max-width: 991px)
+{
+	body{
+		padding: 10px 40px;
+	}
+
+}
+@media (max-width: 767px)
+{
+	body{
+		padding: 10px 10px !important;
+	}
+
+}
+@media (max-width: 599px)
+{
+	.logo {
+    width: 100%;
+}
+.logo img {
+    width: 30%;
+    margin: auto;
+}
+.head {
+    width: 100%;
+    margin-top: 20px;
+}
+header {
+    padding: 10px 0px;
+}
+section {
+    padding: 10px 10px;
+}
+.titl h1 {
+    font-size: 25px;
+    margin-top: 20px;
+}
+section table tr th {
+    padding: 10px 5px;
+    width: 100%;
+    font-size: 12px;
+}
+section table tr td {
+    width: 100%;
+}
+section table tr td:first-child, section table tr td:nth-child(2),
+section table tr th:first-child, section table tr th:nth-child(2){
+	width: 50% !important;
+}
+footer ul li span, footer ul li a{
+    font-size: 10px;
+}
+
+
+}ß
