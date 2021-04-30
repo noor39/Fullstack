@@ -1,0 +1,22 @@
+https://mlsdev.com/blog/how-to-create-your-own-cryptocurrency
+blogs to know about etherium
+https://docs.binance.org/
+this documentation provides the appropriate requirements and directions to complete understanding of how to develop a cryptocurrency websites. 
+******client requirement*******
+I am looking to create a clone Crypto website where i want to copy this example below exactly but to have a cleaner looking interface and more professional look 
+using our own BSC Token which we have already. Can you let me know if this is something you can do please and the cost and time frame it would take you?
+It will need wallet integration (Metamask, Trust Wallet etc) for balances, charts integration from trading view, tools tab and custom ad space, Premium tools (track other wallets & show trades on charts)
+with certain LP contribution. Almost identical features
+on this website with the possibility to add further tools and charts for top 10 trending coins on BSC network by marketcap etc. Website example: https://poocoin.app/
+
+What is the Task & Objective/ultimate delivery?
+• To create a BSC buying bot that buys immediately after liquidity is added. There are 3 main functions of the bot:
+Monitor mempool for a particular token address.
+A smart contract managing multiple wallets with spam submit buy orders using the same amount of gwei as the liquidity add transaction.
+Ui to control the bot.(or explain how to interact with the bot directly)
+Some transactions must come before liquidity is added.
+
+https://trustwallet.com/smart-chain-wallet/
+
+https://morioh.com/
+this provides ample javascript snippets that you can understand very easily,
